@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Doahindu</string>
+    <!--- DOA SEHARI HARI -->
+
+    <string name ="jDoa_panganjali">Doa panganjali</string>
+    <string name ="Doa_panganjali">OM Swastyastu</string>
+    <string name ="aDoa_panganjali">Semoga selalu dalam lindungan hyang widhi</string>
+
+    <string name ="jDoa_Sebelum_Tidur">Doa Sebelum Tidur</string>
+    <string name ="Doa_Sebelum_Tidur">Om Asato Ma Sat Gamaya, Tamaso Ma Jyotir Gamaya Mrityor Mamritan Gamaya</string>
+    <string name ="aDoa_Sebelum_Tidur">Ya Tuhan, Tuntunlah Kami Dari Jalan Sesat Ke Jalan Yang Benar, Dari Jalan Gelap Ke Jalan Yang Terang Hindarkan Kami Dari Kematian Menuju Kehidupan Sejati</string>
+
+    <string name ="jDoa_Baru_Bangun_Pagi">Doa Baru Bangun Pagi</string>
+    <string name ="Doa_Baru_Bangun_Pagi">Om Jagrasca Prabhata Kalasca Ya Namah Swaha</string>
+    <string name ="aDoa_Baru_Bangun_Pagi">Ya Tuhan , Hamba Memujamu, Bahwa Hamba Telah Bangun Pagi Dalam Keadaan Selamat</string>
+
+    <string name ="jDoa_Cuci_Muka">Doa Cuci Muka</string>
+    <string name ="Doa_Cuci_Muka">Om Cam Camani Ya Namah Swaha \n Om Waktra Parisudaha Ya Namah Swaha</string>
+    <string name ="aDoa_Cuci_Muka">Ya Tuhan, Hamba Memujamu, Semoga Muka Hamba Menjadi Bersih</string>
+
+    <string name ="jMenggosok_Gigi">Menggosok Gigi</string>
+    <string name ="Menggosok_Gigi">Om Rahphat Astraya Namah \n Om Sri Dewi Bhatrimsa Yogini Namah</string>
+    <string name ="aMenggosok_Gigi">Ya Tuhan, Sujud Hamba Kepada Dewi Sri, Bhatari Yogini, Semoga Bersihlah Gigi Hamba</string>
+
+    <string name ="jDoa_Berkumur">Doa Berkumur</string>
+    <string name ="Doa_Berkumur">Om Ang Waktra Parisudhamam Swaha</string>
+    <string name ="aDoa_Berkumur">Ya Tuhan, Semoga Bersihlah Mulut Hamba</string>
+
+    <string name ="jDoa_Membersihkan_Kaki_">Doa Membersihkan Kaki </string>
+    <string name ="Doa_Membersihkan_Kaki_">Om Am Kham Khasolkhaya Iswaraya Namah Swaha</string>
+    <string name ="aDoa_Membersihkan_Kaki_">Ya Tuhan, Semoga Bersihlah Kaki Hamba</string>
+
+    <string name ="jDoa_Mandi">Doa Mandi</string>
+    <string name ="Doa_Mandi">Om Gangga Amrta Sarira Sudhamam Swaha \n Om Sarira Parisudhamam Swaha</string>
+    <string name ="aDoa_Mandi">Ya Tuhan, Engkau Adalah Sumber Kehidupan Abadi Nan Suci, Semoga Badan Hamba Menjadi Bersih Dan Suci</string>
+
+    <string name ="jDoa_Pada_Waktu_Mengenakan_Pakaian">Doa Pada Waktu Mengenakan Pakaian</string>
+    <string name ="Doa_Pada_Waktu_Mengenakan_Pakaian">Om Tam Mahadewaya Namah Swaha \n Om Bhusanam Sarirabhyo Parisudhamam Swaha</string>
+    <string name ="aDoa_Pada_Waktu_Mengenakan_Pakaian">Tuhan Dalam Perwujudanmu Sebagai Tat Purusha, Dewa Yang Maha Agung, Hamba Sujud Kepadamu Dalam Menggunakan Pakaian Ini. Semoga Pakaian Hamba Menjadi Bersih Dan Suci</string>
+
+    <string name ="jDoa_Menghadapi_Makanan">Doa Menghadapi Makanan</string>
+    <string name ="Doa_Menghadapi_Makanan">Om Ang Kang Kasolkaya Ica Na Ya Namah Swaha \n Swasti Swasti Sarwa Dewa Bhuta Pradhana Purusa Sang Yoga Ya Namah</string>
+    <string name ="aDoa_Menghadapi_Makanan">Oh Hyang Widhi Yang Bergelar Icana (Bergerak Cepat) Para Dewa Bhutan \n Dan Unsur Pradhana Purusa, Para Yogi, Semoga Senang Berkumpul Menikmati Makanan Ini</string>
+
+    <string name ="jDoa_Yadnya_Sesa">Doa Yadnya Sesa</string>
+    <string name ="Doa_Yadnya_Sesa">Om Sarwa Bhuta Sukka Pretebhyah Swaha</string>
+    <string name ="aDoa_Yadnya_Sesa">Oh Hyang Widhi \n Semoga Para Bhuta Senang Menikmati Makanan Ini Dan Sesudahnya Supaya Pergi, Tidak Mengganggu</string>
+
+    <string name ="jDoa_Mulai_Makan">Doa Mulai Makan</string>
+    <string name ="Doa_Mulai_Makan">Om Anugraha Amrtadi Sanjiwani Ya Namah Swaha</string>
+    <string name ="aDoa_Mulai_Makan">Ya Tuhan Semoga Makanan Ini Menjadi Amerta Yang Menghidupkan Hamba</string>
+
+    <string name ="jDoa_Sesudah_Makan">Doa Sesudah Makan</string>
+    <string name ="Doa_Sesudah_Makan">Om Dir Ghayur Astu, Awighnam Astu, Çubham Astu \n Om Sriyam Bhawantu, Sukkam Bhawantu, Purnam Bhawantu, Ksamasampurna Ya Namah Swaha \n Om Santih, Santih, Santih Om</string>
+    <string name ="aDoa_Sesudah_Makan">Ya Tuhan Semoga Hamba Panjang Umur, Tiada Halangan, Selalu Bahagia, Tentram, Senang Dan Semua Menjadi Sempurna \n Ya Tuhan, Semoga Damai, Damai, Damai, Selalu</string>
+
+    <string name ="jDoa_Memulai_Pekerjaan">Doa Memulai Pekerjaan</string>
+    <string name ="Doa_Memulai_Pekerjaan">Om Awighnam Astu Namo Sidham \n Om Sidhirastu Tad Astu Swaha</string>
+    <string name ="aDoa_Memulai_Pekerjaan">Ya Tuhan, Semoga Atas Berkenanmu, Tiada Suatu Halangan Bagi Hamba Memulai Pekerjaan Ini Dan Semoga Berhasil Baik</string>
+
+    <string name ="jDoa_Selesai_Bekerja">Doa Selesai Bekerja / Bersyukur</string>
+    <string name ="Doa_Selesai_Bekerja">Om Dewa Suksma Parama Acintya Ya Namah Swaha, Sarwa Karya Prasidhantam \n Om Santih, Santih, Santih, Om</string>
+    <string name ="aDoa_Selesai_Bekerja">Ya Tuhan, Dalam Wujud Parama Acintya Yang Maha Gaib Dan Maha Karya, Hanya Atas Anugrahmulah Maka Pekerjaan Ini Berhasil Dengan Baik \n Semoga Damai, Damai Di Hati, Damai Di Dunia, Damai Selamanya</string>
+
+    <string name ="jDoa_Mohon_Bimbingan_Tuhan">Doa Mohon Bimbingan Tuhan</string>
+    <string name ="Doa_Mohon_Bimbingan_Tuhan">Om asato Ma Sadyamaya Tamaso Ma Jyotir Gamaya Mrtyor Ma Amrtam Gamaya \n Om Agne Brahma Grbhniswa Dharunama Syanta Riksam Drdvamha \n Brahmawanitwa Ksatrawani SajataWahyu Dadhami Bhratrwyasya Wadhyaya</string>
+    <string name ="aDoa_Mohon_Bimbingan_Tuhan">Tuhan Yang Maha Suci Bimbinglah Hamba Dari Yang Tidak Benar Menuju Yang Benar.  \n Bimbinglah Hamba Dari Kegelapan Menuju Cahaya Pengetahuan Yang Terang. lepaskanlah Hamba Dari Kematian Menuju Kehidupan Yang Abadi. \n Tuhan Yang Maha Suci Terimalah Pujian Yang Hamba Persembahkan Melalui Weda Mantra Dan Kembangkanlah Pengetahuan Rohani Hamba Agar Hamba Dapat Menghancurkan Musuh Yang Ada Pada Hamba (Nafsu).  \n Hamba Menyadari Bahwa Engkaulah Yang Berada Dalam Setiap Insani (Jiwatman), Menolong Orang Terpelajar, Pemimpin Negara Dan Para Pejabat. Hamba Menuju Engkau Semoga Melimpahkan Anugerah Kekuatan Kepada Hamba</string>
+
+    <string name ="jDoa_Mohon_Inspirasi">Doa Mohon Inspirasi</string>
+    <string name ="Doa_Mohon_Inspirasi">Om Prano Dewi Saraswati Wajebhir Wajiniwati Dhinam Awinyawantu</string>
+    <string name ="aDoa_Mohon_Inspirasi">Ya Tuhan Dalam Manifestasi Dewi Saraswati, Hyang Maha Agung Dan Maha Kuasa, Semoga Engkau Memancarkan Kekuatan Rohani, Kecerdasan Pikiran, Dan Lindungilah Hamba Selama-Lamanya</string>
+
+    <string name ="jDoa_Mohon_Kecerdasan">Doa Mohon Kecerdasan</string>
+    <string name ="Doa_Mohon_Kecerdasan">Om Pawakanah Saraswati Wajebhir Wajiniwati Yajnam Wastu Dhiyawasuh</string>
+    <string name ="aDoa_Mohon_Kecerdasan">Ya Tuhan, Sebagai Manifestasi Dewi Saraswati, Yang Maha Suci, Anugerahilah Hamba Kecerdasan Dan Terimalah Persembahan Hamba Ini</string>
+
+    <string name ="jDoa_Waktu_Mulai_Membaca_Veda">Doa Waktu Mulai Membaca Kitab Agama (Veda)</string>
+    <string name ="Doa_Waktu_Mulai_Membaca_Veda">Om Narayana, Om Saraswati Jaya</string>
+    <string name ="aDoa_Waktu_Mulai_Membaca_Veda">Ya Tuhan , Narayana Oh Hyang Widhi (Saraswati) Semoga Hamba Menang (Berhasil) Jaya</string>
+
+    <string name ="jDoa_Mulai_Belajar">Doa Mulai Belajar</string>
+    <string name ="Doa_Mulai_Belajar">Om Purwe Jato Brahmano Brahmacari Dharmam Wasanas Tapasodatistat Tasmajjatam Brahmanam Brahma Iyestham Dewasca Sarwe Amrttna Sakama</string>
+    <string name ="aDoa_Mulai_Belajar">Ya Tuhan, Muridmu Hadir Dihadapanmu, Oh Brahman Yang Berselimutkan Kesaktian Dan Berdiri Sebagai Pertama, Tuhan, Anugrahkanlah Pengetahuan Dan Pikiran Yang Terang. Brahman Yang Agung, Setiap Mahkluk Hanya Dapat Bersinar Berkat Cahayamu Yang Senantiasa Memancar</string>
+
+    <string name ="jDoa_Mengheningkan_Cipta">Doa Mengheningkan Cipta</string>
+    <string name ="Doa_Mengheningkan_Cipta">Om Mata Bhumih Putro Aham Prthivyah</string>
+    <string name ="aDoa_Mengheningkan_Cipta">Ya Tuhan, Semoga Kami Mencintai Tanah Air Ini Sebagai Ibu Dan Hamba Adalah Putra-Putranya Yang Siap Sedia Membela Seperti Para Pahlawan Kami</string>
+
+    <string name ="jDoa_Memotong_Hewan">Doa Memotong Hewan</string>
+    <string name ="Doa_Memotong_Hewan">Om Pasu Pasaya Wimahe Sirascadaya Dhimahi Tano Jiwah Pracodayat</string>
+    <string name ="aDoa_Memotong_Hewan">Semoga Atas Berkenan Dan Berkahmu Para Pemotong Hewan Dalam Upacara Kurban Suci Ini Beserta Orang-Orang Yang Telah Berdana Punia Untuk Yadnya Ini Memperoleh Kesejahteraan Dan Kebahagiaan. Tuhan Hamba Memotong Hewan Ini Semoga Rohnya Menjadi Suci</string>
+
+    <string name ="jDoa_Mengunjungi_Orang_Sakit">Doa Mengunjungi Orang Sakit</string>
+    <string name ="Doa_Mengunjungi_Orang_Sakit">Om Sarwa Wighna Sarwa Klesa Sarwa Lara Roga Winasaya Namah</string>
+    <string name ="aDoa_Mengunjungi_Orang_Sakit">Ya Tuhan Semoga Segala Halangan, Segala Penyakit, Segala Penderitaan Dan Gangguan Engkau Lenyapkan Semuanya</string>
+
+    <string name ="jDoa_Mendengar_Atau_Melayat_Orang_Mati">Doa Mendengar Atau Melayat Orang Mati</string>
+    <string name ="Doa_Mendengar_Atau_Melayat_Orang_Mati">Om Swargantu, Moksantu, Sunyantu, Murcantu, \n Om Ksama Sampurna Ya Namah Swaha</string>
+    <string name ="aDoa_Mendengar_Atau_Melayat_Orang_Mati">Ya Tuhan Yang Maha Kuasa, Semogalah Arwah Yang Meninggal Mendapat Sorga, Menunggal Denganmu, Mencapai Keheningan Tanpa Derita. \n Ya Tuhan Ampunilah Segala Dosanya, Semoga Ia Mencapai Kesempurnaan Atas Kekuasaan Dan Pengetahuan Serta Pengampunanmu</string>
+
+    <string name ="jDoa_Para_Pedagang">Doa Para Pedagang</string>
+    <string name ="Doa_Para_Pedagang">Om a Wiswani Amrta Saubhagani</string>
+    <string name ="aDoa_Para_Pedagang">Ya Tuhan, Semoga Engkau Menganugrahkan Segala Keberuntungan Yang Memberikan Kebahagiaan Kepada Kami</string>
+
+    <string name ="jDoa_Saat_Sakit">Doa Saat Sakit/Mohon Perlindungan Menghilangkan Kegelisahan</string>
+    <string name ="Doa_Saat_Sakit">Om Trayam Bhakam Ya Jamahe Sughamdin Pusthi Wardhanam Uhrwaru Kham Iwa Bhandhanat Mrityor Mukhsya Mamritat</string>
+    <string name ="aDoa_Saat_Sakit">Oh Sanghyang Widhi Wasa, Yang Maha Mulia. Kami Memujamu, Hindarkanlah Kami Dari Keraguan Ini. Bebaskanlah Kami Dari Belenggu Dosa, Bagaikan Mentimun Lepas Dari Tangkainya, Sehingga Kami Dapat Bersatu Denganmu</string>
+
+    <string name ="jDoa_Menghilangkan_Rasa_Takut">Doa Menghilangkan Rasa Takut</string>
+    <string name ="Doa_Menghilangkan_Rasa_Takut">Om Om Jaya Jiwat Sarira Raksan Dadasime \n Om Mjum Sah Waosat Mrityun Jaya Namah Swaha</string>
+    <string name ="aDoa_Menghilangkan_Rasa_Takut">Oh Sanghyang Widhi Wasa Yang Maha Jaya Yang Mengatasi Segala Kematian Kami Memujamu. Lindungilah Kami Dari Marabahaya</string>
+
+    <string name ="jDoa_Menghindari_Malapetaka">Doa Menghindari Malapetaka</string>
+    <string name ="Doa_Menghindari_Malapetaka">Om Sarwa Papa Winasini Sarwa Roga Wimocane Sarwa Klesa Winasanam Sarwa Bhogam Awapnuyat \n Om Srikare Sapa Hut Kare Roga Dosa Winasanam Siwa Lokam Mahayaste Mantra Manah Papa Kelah</string>
+    <string name ="aDoa_Menghindari_Malapetaka">Oh Sanghyang Widhi Wasa, Terimalah Segala Persembahan Kami. Engkau Musnahkan Segala Malapetaka. Engkau Bebaskan Segala Derita, Dan Engkau Jauhkan Segala Penyakit \n Oh Sanghyang Widhi Wasa, Engkau Yang Dipuja Sebagai Penguasa Alam Semesta, Engkau Menjiwai Inti Segala Mantra, Bebaskanlah Segala Dosa Dan Derita, Serta Tuntunlah Kami Ke Jalan Yang Benar</string>
+
+    <string name ="jDoa_Resepsi_Pengantin">Doa Resepsi Pengantin</string>
+    <string name ="Doa_Resepsi_Pengantin">Om Iha Iwa Stam Ma Wi Yaus Tam Wiswam Ayur Wyasnutam Kridantau Putrair Naptrbhih Modamanau Swe Grhe</string>
+    <string name ="aDoa_Resepsi_Pengantin">Ya Tuhan, Anugerahkanlah Kepada Pasangan Pengantin Ini Kebahagiaan, Keduanya Tiada Terpisahkan Dan Panjang Umur. Semoga Penganten Ini Dianugerahkan Putera Dan Cucu Yang Memberikan Penghiburan, Tinggal Di Rumah Yang Penuh Kegembiraan</string>
+
+    <string name ="jDoa_Mohon_Ketenangan_Rumah_Tangga">Doa Mohon Ketenangan Rumah Tangga</string>
+    <string name ="Doa_Mohon_Ketenangan_Rumah_Tangga">Om Wisowiso Wo Atithim Wajayantah Purupriyam Agnim Wo Duryam Wacah Stuse Susasya Manmabhih</string>
+    <string name ="aDoa_Mohon_Ketenangan_Rumah_Tangga">Ya Tuhan, Engkau Adalah Tamu Yang Datang Pada Setiap Rumah. Engkau Amat Mencintai Umatmu. Engkau Adalah Sahabat Yang Maha Pemurah. Perkenankanlah Hamba Memujamu Dengan Penuh Kekuatan, Dalam Ucapan Maupun Tenaga Dan Dalam Lagu Pujian</string>
+
+    <string name ="jDoa_Kelahiran_Bayi">Doa Kelahiran Bayi</string>
+    <string name ="Doa_Kelahiran_Bayi">Om Brhatsumnah Prasawita \n Om Brhatsumnah Prasawita Niwesano Jagatah Sthaturub Hayasya Yo Wasi Sano Dewah Sawita Sarma Yaccha Twasme Ksayaya Triwarutham Amhasah</string>
+    <string name ="aDoa_Kelahiran_Bayi">Ya Tuhan Yang Maha Pengasih, Yang Memberi Kehidupan Pada Alam Dan Menegakkannya. Ia Mengatur Yang Bergerak Maupun Yang Tidak Bergerak Semoga Ia Memberi Rahmatnya Kepada Kami Untuk Ketentraman Hidup Dengan Kemampuan Untuk Menghindari Kekuatan Yang Jahat</string>
+
+    <string name ="jDoa_Ulang_Tahun_Kelahiran">Doa Ulang Tahun Kelahiran</string>
+    <string name ="Doa_Ulang_Tahun_Kelahiran">Om Dirgayurastu Tad Astu Astu Swaha</string>
+    <string name ="aDoa_Ulang_Tahun_Kelahiran">Oh Sanghyang Widhi Wasa Semoga Bahagia Dan Panjang Umur Atas Karuniamu</string>
+
+    <string name ="jDoa_Menolak_Bahaya">Doa Menolak Bahaya</string>
+    <string name ="Doa_Menolak_Bahaya">Om Om Asta Maha Bayaya \n Om Sarwa Dewa, Sarwa Sanjata, Sarwa Warna Ya Namah, \n Om Atma Raksaya, Sarwa Satru, Winasaya Namah Swaha</string>
+    <string name ="aDoa_Menolak_Bahaya">Oh Sanghyang Widhi Wasa Penakluk Segala Macam Bahaya Dari Segala Penjuru, Hamba Memujamu Dalam Wujud Sinar Suci Dengan Beraneka Warna Dan Senjata Yang Ampuh. Oh Sanghyang Widhi Wasa Lindungilah Jiwa Kami. Semoga Semua Musuh Binasa</string>
+
+    <string name ="jDoa_Sebelum_Melakukan_Hubungan_Suami_Istri">Doa Sebelum Melakukan Hubungan Suami Istri (Bersenggama)</string>
+    <string name ="Doa_Sebelum_Melakukan_Hubungan_Suami_Istri">Om Krung Kama Supurna Dewata Manggala Ya Namah Swaha</string>
+    <string name ="aDoa_Sebelum_Melakukan_Hubungan_Suami_Istri">Ya Tuhan, Dewa Asmara Yang Amat Suci Yang Terutama</string>
+
+    <string name ="jDoa_Pembuka_Rapat">Doa Pembuka Rapat/Pertemuan</string>
+    <string name ="Doa_Pembuka_Rapat">Om Sam Gacchadwam Samwadadwam Sam Wo Manamsi Janatam Dewa Bhagam Yatha Purwe Samjanana Upasate \n Om Samani Wa Akutih Samana Hrdayani Wah Samanam Astu Wo Mano Yatha Wah Susahasati \n Om Ano Bhadrah Krattawoyantu Wistawah</string>
+    <string name ="aDoa_Pembuka_Rapat">Ya Tuhan, Hamba Berkumpul Di Tempat Ini Hendak Bicara Satu Dengan Yang Lain Untuk Menyatukan Pikiran Sebagaimana Halnya Para Dewa Selalu Bersatu. Ya Tuhan, Tuntunlah Kami Agar Sama Dalam Tujuan, Sama Dalam Hati, Bersatu Dalam Pikiran Hingga Dapat Hidup bersama Dalam Sejahtera Dan Bahagia. Ya Tuhan, Semoga Pikiran Yang Baik Datang Dari Segala Penjuru</string>
+
+    <string name ="jDoa_Menutup_Rapat">Doa Menutup Rapat/Pertemuan</string>
+    <string name ="Doa_Menutup_Rapat">Om Mantrahinam Kriyahinam Bhaktihinam Maheswara, Yad Pujitan Mahadewa Paripurnam Tad Astu Me \n Ayuwrdhir Yasowridhih Wridhih Pradnyasukhasriyam Dharma Santana Wrdhisca Santu Te Sapta Wrdhayah \n Om Dirghayur Nirwighna Sukha Wridhi Nugrahakam</string>
+    <string name ="aDoa_Menutup_Rapat">Oh Iswara Yang Agung, Mantra Kami Tiada Sempurna, Perbuatan Kami Tiada Sempurna Pula. Karena Itu Kami Memujamu, Oh Iswara Yang Agung, Semoga Kami Dikaruniai Kesempurnaan (Di Dalam Melakukan Tugas) \n Oh Sanghyang Widhi Wasa, Berkahilah Kami Dengan Tujuh Perpanjangan : Hidup Lama, Nama Harum, Ilmu Pengetahuan, Kebahagiaan, Kesejahteraan, Kepercayaan, Dan Putera-Putera Utama (Sebagai Generasi Perjuangan Bangsa) \n Oh Sanghyang Widhi Wasa, Semoga Kami Sukses Tanpa Halangan Dan Memperoleh Kebahagiaan Atas Anugerahmu.</string>
+
+    <string name ="jDoa_Pramasanti_">Doa Pramasanti </string>
+    <string name ="Doa_Pramasanti_">Om Santih Santih Santih Om</string>
+    <string name ="aDoa_Pramasanti_">Semoga damai, damai di hati, damai di dunia , damai selama-lamanya.</string>
+
+</resources>
